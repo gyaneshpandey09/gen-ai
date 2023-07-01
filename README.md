@@ -1,5 +1,3 @@
 # gen-ai
-Basic Generative AI - 
-
-Personal AI projects 
+Basic Generative AI personal projects 
 
